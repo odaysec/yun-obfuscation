@@ -22,7 +22,7 @@ This project is a **fun encryption/decryption tool** that converts text into **G
 - 🎨 Change GUI theme (Dark, Light, Cosmo, Morph, etc.)
 - ✅ Built with Python 3.12+ and `ttkbootstrap`
 
----
+
 
 ## 🖥️ Preview
 ![Screenshot](preview.png) <!-- You should place a screenshot of the GUI and rename it preview.png -->
@@ -46,7 +46,7 @@ sudo apt install python3 python3-pip -y
 Download Python from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 Ensure “Add to PATH” is checked during installation.
 
----
+
 
 ### 3. 📥 Clone the Repository
 
