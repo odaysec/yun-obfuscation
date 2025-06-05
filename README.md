@@ -25,7 +25,7 @@ This project is a **fun encryption/decryption tool** that converts text into **G
 
 
 ## 🖥️ Preview
-![Screenshot](preview.png) <!-- You should place a screenshot of the GUI and rename it preview.png -->
+![](https://github.com/odaysec/yun-obfuscation/raw/refs/heads/main/greg.mp4) <!-- You should place a screenshot of the GUI and rename it preview.png -->
 
 
 ## Installation Guide
